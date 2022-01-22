@@ -1,0 +1,10 @@
+com\maixuanviet\dynamodb\repository\AbstractRepository.class
+com\maixuanviet\dynamodb\entity\ProductInfo.class
+com\maixuanviet\s3\S3Application.class
+com\maixuanviet\ec2\EC2Application.class
+com\maixuanviet\s3\MultipartUpload.class
+com\maixuanviet\rds\AWSRDSService.class
+com\maixuanviet\sqs\SQSApplication.class
+com\maixuanviet\s3\AWSS3Service$1.class
+com\maixuanviet\s3\AWSS3Service.class
+com\maixuanviet\dynamodb\repository\ProductInfoRepository.class

@@ -1,0 +1,9 @@
+D:\Project\JAVA_PROJECT\java_aws\src\main\java\com\maixuanviet\dynamodb\entity\ProductInfo.java
+D:\Project\JAVA_PROJECT\java_aws\src\main\java\com\maixuanviet\s3\AWSS3Service.java
+D:\Project\JAVA_PROJECT\java_aws\src\main\java\com\maixuanviet\s3\S3Application.java
+D:\Project\JAVA_PROJECT\java_aws\src\main\java\com\maixuanviet\ec2\EC2Application.java
+D:\Project\JAVA_PROJECT\java_aws\src\main\java\com\maixuanviet\dynamodb\repository\ProductInfoRepository.java
+D:\Project\JAVA_PROJECT\java_aws\src\main\java\com\maixuanviet\rds\AWSRDSService.java
+D:\Project\JAVA_PROJECT\java_aws\src\main\java\com\maixuanviet\s3\MultipartUpload.java
+D:\Project\JAVA_PROJECT\java_aws\src\main\java\com\maixuanviet\dynamodb\repository\AbstractRepository.java
+D:\Project\JAVA_PROJECT\java_aws\src\main\java\com\maixuanviet\sqs\SQSApplication.java
